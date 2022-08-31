@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+src/__init__.py
+src/mathutil/Constant.py
+src/mathutil/Flat_graphics.py
+src/mathutil/Fractions.py
+src/mathutil/Three_dimensional_graphics.py
+src/mathutil/__init__.py
+src/mathutil.egg-info/PKG-INFO
+src/mathutil.egg-info/SOURCES.txt
+src/mathutil.egg-info/dependency_links.txt
+src/mathutil.egg-info/top_level.txt
